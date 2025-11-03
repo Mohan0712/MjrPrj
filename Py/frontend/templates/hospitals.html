@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block content %}
+<h2 class="fw-bold text-primary">🏥 Hospitals</h2>
+<p class="text-muted">Nearby hospitals and availability.</p>
+
+<table class="table table-bordered table-hover shadow-sm">
+  <thead class="table-light">
+    <tr>
+      <th>Name</th>
+      <th>Address</th>
+      <th>Specialties</th>
+      <th>Emergency Beds</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for h in hospitals %}
+    <tr>
+      <td>{{ h.name or 'N/A' }}</td>
+      <td>{{ h.address or 'N/A' }}</td>
+      <td>
+        {% if h.specialties %}
+          {{ h.specialties | join(', ') }}
+        {% else %}
+          N/A
+        {% endif %}
+      </td>
+      <td>
+        {% if h.current_availability %}
+          {{ h.current_availability.emergency or 'N/A' }}
+        {% else %}
+          N/A
+        {% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

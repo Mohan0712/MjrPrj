@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container py-6">
+  <div class="card shadow-lg p-5 bg-white rounded">
+    <h2 class="text-2xl font-bold text-red-600 mb-4">🚨 Report Emergency</h2>
+
+    <!-- GPS / Manual Location -->
+    <div class="mb-4">
+      <label class="font-semibold">📍 Location</label>
+      <button class="btn btn-primary ml-3" onclick="getLocation()">Get GPS Location</button>
+      <input type="text" id="manualLocation" placeholder="Or enter address manually" class="form-control mt-2">
+      <p id="locationStatus" class="text-sm text-gray-500 mt-1"></p>
+    </div>
+
+    <!-- Emergency Type -->
+    <div class="grid grid-cols-2 gap-4">
+      <div>
+        <label class="font-semibold">Emergency Type</label>
+        <select id="emergencyType" class="form-control">
+          <option value="traffic_accident">Traffic Accident</option>
+          <option value="medical_emergency">Medical Emergency</option>
+          <option value="fire">Fire</option>
+          <option value="cardiac_arrest">Cardiac Arrest</option>
+        </select>
+      </div>
+
+      <div>
+        <label class="font-semibold">Severity</label>
+        <select id="severity" class="form-control">
+          <option value="low">Low</option>
+          <option value="medium">Medium</option>
+          <option value="high">High</option>
+          <option value="critical">Critical</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Description -->
+    <textarea id="description" class="form-control mt-4" placeholder="Description (optional)"></textarea>
+
+    <!-- Submit -->
+    <button onclick="reportEmergency()" class="btn btn-danger w-full mt-4">🚑 Send Emergency Alert</button>
+  </div>
+
+  <!-- Hospital Recommendations -->
+  <div id="hospitalList" class="mt-6 hidden">
+    <h3 class="text-xl font-bold text-blue-600">🏥 Recommended Hospitals</h3>
+    <div id="hospitalsContainer" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-4"></div>
+  </div>
+</div>
+
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+{% endblock %}
