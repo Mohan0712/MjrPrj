@@ -1,0 +1,2102 @@
+[
+  {
+    "unit_id": "AMB-1000",
+    "status": "available",
+    "current_location": "ESI Rajajinagar",
+    "latitude": 12.991828,
+    "longitude": 77.458754,
+    "location_accuracy": 10,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Deepak",
+      "Nurse C"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 61,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1001",
+    "status": "available",
+    "current_location": "Manipal Hospital Old Airport",
+    "latitude": 13.00301,
+    "longitude": 77.762263,
+    "location_accuracy": 21,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Kiran",
+      "Nurse A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 60,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1002",
+    "status": "available",
+    "current_location": "City Care Center",
+    "latitude": 12.865591,
+    "longitude": 77.626874,
+    "location_accuracy": 20,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Deepak",
+      "Paramedic-A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 83,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1003",
+    "status": "available",
+    "current_location": "St. Mary's Hospital",
+    "latitude": 12.97678,
+    "longitude": 77.733301,
+    "location_accuracy": 27,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Shiva",
+      "Paramedic-A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 72,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1004",
+    "status": "available",
+    "current_location": "Indira Gandhi Institute",
+    "latitude": 12.846644,
+    "longitude": 77.785025,
+    "location_accuracy": 6,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Rahul",
+      "Paramedic-A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 77,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1005",
+    "status": "available",
+    "current_location": "Apollo Clinic Whitefield",
+    "latitude": 13.054248,
+    "longitude": 77.661304,
+    "location_accuracy": 26,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Manoj",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 79,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1006",
+    "status": "available",
+    "current_location": "Rajarajeshwari Medical College",
+    "latitude": 12.82364,
+    "longitude": 77.552612,
+    "location_accuracy": 22,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Joseph",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 59,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1007",
+    "status": "available",
+    "current_location": "Victoria Hospital",
+    "latitude": 12.813747,
+    "longitude": 77.529764,
+    "location_accuracy": 5,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Deepak",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 72,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1008",
+    "status": "available",
+    "current_location": "Sparsh Hospital",
+    "latitude": 12.936023,
+    "longitude": 77.741939,
+    "location_accuracy": 14,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Joseph",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 72,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1009",
+    "status": "available",
+    "current_location": "Narayana Health City",
+    "latitude": 13.010546,
+    "longitude": 77.689242,
+    "location_accuracy": 22,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Praveen",
+      "Nurse C"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 70,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1010",
+    "status": "available",
+    "current_location": "Rajarajeshwari Medical College",
+    "latitude": 12.849021,
+    "longitude": 77.582809,
+    "location_accuracy": 25,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Ravi",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 75,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1011",
+    "status": "available",
+    "current_location": "St. Philomena's",
+    "latitude": 13.052856,
+    "longitude": 77.7216,
+    "location_accuracy": 29,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Arun",
+      "EMT-2"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 72,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1012",
+    "status": "available",
+    "current_location": "Baptist Hospital",
+    "latitude": 12.819857,
+    "longitude": 77.769598,
+    "location_accuracy": 25,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Joseph",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 86,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1013",
+    "status": "available",
+    "current_location": "Ovum Hospital",
+    "latitude": 12.91869,
+    "longitude": 77.770092,
+    "location_accuracy": 7,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Amit",
+      "Nurse C"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 90,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1014",
+    "status": "available",
+    "current_location": "Mallige Hospital",
+    "latitude": 12.961693,
+    "longitude": 77.711455,
+    "location_accuracy": 21,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Kiran",
+      "EMT-2"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 63,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1015",
+    "status": "available",
+    "current_location": "Fortis Bannerghatta",
+    "latitude": 12.952858,
+    "longitude": 77.481818,
+    "location_accuracy": 30,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Rahul",
+      "Nurse C"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 65,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1016",
+    "status": "available",
+    "current_location": "Narayana Health City",
+    "latitude": 13.037624,
+    "longitude": 77.597756,
+    "location_accuracy": 15,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Kiran",
+      "Paramedic-B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 71,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1017",
+    "status": "available",
+    "current_location": "St. Mary's Hospital",
+    "latitude": 13.091324,
+    "longitude": 77.751273,
+    "location_accuracy": 24,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Yusuf",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 89,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1018",
+    "status": "available",
+    "current_location": "Indira Gandhi Institute",
+    "latitude": 13.025263,
+    "longitude": 77.71901,
+    "location_accuracy": 6,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Amit",
+      "Paramedic-A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 84,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1019",
+    "status": "available",
+    "current_location": "Panacea Hospital",
+    "latitude": 12.800974,
+    "longitude": 77.702732,
+    "location_accuracy": 11,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Ravi",
+      "Nurse C"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 61,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1020",
+    "status": "available",
+    "current_location": "Rajarajeshwari Medical College",
+    "latitude": 13.061156,
+    "longitude": 77.554456,
+    "location_accuracy": 19,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Suhas",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 78,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1021",
+    "status": "available",
+    "current_location": "LifeCare Clinic",
+    "latitude": 13.028753,
+    "longitude": 77.638783,
+    "location_accuracy": 19,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Arun",
+      "EMT-2"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 56,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1022",
+    "status": "available",
+    "current_location": "KC General",
+    "latitude": 12.83356,
+    "longitude": 77.577043,
+    "location_accuracy": 10,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Arun",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 91,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1023",
+    "status": "available",
+    "current_location": "Rainbow Hospital",
+    "latitude": 13.084085,
+    "longitude": 77.479979,
+    "location_accuracy": 29,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Rahul",
+      "Nurse C"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 97,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1024",
+    "status": "available",
+    "current_location": "Bowring & Lady Curzon",
+    "latitude": 12.942585,
+    "longitude": 77.642431,
+    "location_accuracy": 19,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Suhas",
+      "Paramedic-A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 68,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1025",
+    "status": "available",
+    "current_location": "Akshaya Hospital",
+    "latitude": 13.078674,
+    "longitude": 77.714343,
+    "location_accuracy": 9,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Yusuf",
+      "EMT-1"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 97,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1026",
+    "status": "available",
+    "current_location": "Sakra World Hospital",
+    "latitude": 12.994963,
+    "longitude": 77.603335,
+    "location_accuracy": 17,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Rahul",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 59,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1027",
+    "status": "available",
+    "current_location": "St. Philomena's",
+    "latitude": 12.901426,
+    "longitude": 77.655908,
+    "location_accuracy": 21,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Deepak",
+      "Nurse A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 100,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1028",
+    "status": "available",
+    "current_location": "Apollo Clinic Whitefield",
+    "latitude": 12.989331,
+    "longitude": 77.53013,
+    "location_accuracy": 30,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Joseph",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 70,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1029",
+    "status": "available",
+    "current_location": "Columbia Asia Sarjapur",
+    "latitude": 12.883543,
+    "longitude": 77.619895,
+    "location_accuracy": 7,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Yusuf",
+      "Paramedic-B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 85,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1030",
+    "status": "available",
+    "current_location": "Aster CMI Hebbal",
+    "latitude": 13.042249,
+    "longitude": 77.516643,
+    "location_accuracy": 24,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Kiran",
+      "EMT-2"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 81,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1031",
+    "status": "available",
+    "current_location": "Greenview Medical Center",
+    "latitude": 12.940107,
+    "longitude": 77.705177,
+    "location_accuracy": 23,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Praveen",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 80,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1032",
+    "status": "available",
+    "current_location": "Aster CMI Hebbal",
+    "latitude": 13.018464,
+    "longitude": 77.730207,
+    "location_accuracy": 10,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Deepak",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 83,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1033",
+    "status": "available",
+    "current_location": "Ovum Hospital",
+    "latitude": 12.842055,
+    "longitude": 77.514221,
+    "location_accuracy": 10,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Rahul",
+      "Paramedic-B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 90,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1034",
+    "status": "available",
+    "current_location": "Columbia Asia Sarjapur",
+    "latitude": 12.829373,
+    "longitude": 77.678251,
+    "location_accuracy": 29,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Arun",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 70,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1035",
+    "status": "available",
+    "current_location": "Cloudnine Jayanagar",
+    "latitude": 12.849893,
+    "longitude": 77.619974,
+    "location_accuracy": 30,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Kiran",
+      "Nurse A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 79,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1036",
+    "status": "available",
+    "current_location": "Ovum Hospital",
+    "latitude": 12.800647,
+    "longitude": 77.586648,
+    "location_accuracy": 12,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Kiran",
+      "Paramedic-B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 67,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1037",
+    "status": "available",
+    "current_location": "KIMS Hospital",
+    "latitude": 12.889012,
+    "longitude": 77.789048,
+    "location_accuracy": 26,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Ravi",
+      "Nurse A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 75,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1038",
+    "status": "available",
+    "current_location": "Aster Women & Children",
+    "latitude": 12.81715,
+    "longitude": 77.654462,
+    "location_accuracy": 30,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Ravi",
+      "Nurse C"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 87,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1039",
+    "status": "available",
+    "current_location": "Chinmaya Mission Hospital",
+    "latitude": 12.824033,
+    "longitude": 77.515039,
+    "location_accuracy": 5,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Praveen",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 62,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1040",
+    "status": "available",
+    "current_location": "KIMS Hospital",
+    "latitude": 13.082479,
+    "longitude": 77.649386,
+    "location_accuracy": 22,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Arun",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 97,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1041",
+    "status": "available",
+    "current_location": "Bowring & Lady Curzon",
+    "latitude": 12.975102,
+    "longitude": 77.632974,
+    "location_accuracy": 9,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Praveen",
+      "EMT-2"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 71,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1042",
+    "status": "available",
+    "current_location": "KC General",
+    "latitude": 12.918736,
+    "longitude": 77.685092,
+    "location_accuracy": 17,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Joseph",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 84,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1043",
+    "status": "available",
+    "current_location": "Aster CMI Hebbal",
+    "latitude": 12.986348,
+    "longitude": 77.647048,
+    "location_accuracy": 5,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Ravi",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 71,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1044",
+    "status": "available",
+    "current_location": "Narayana Health City",
+    "latitude": 12.839737,
+    "longitude": 77.572153,
+    "location_accuracy": 10,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Joseph",
+      "EMT-1"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 83,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1045",
+    "status": "available",
+    "current_location": "GM Hospital",
+    "latitude": 13.050123,
+    "longitude": 77.696239,
+    "location_accuracy": 28,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Praveen",
+      "Nurse A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 90,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1046",
+    "status": "available",
+    "current_location": "Vikram Hospital",
+    "latitude": 12.889814,
+    "longitude": 77.682186,
+    "location_accuracy": 11,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Rahul",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 90,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1047",
+    "status": "available",
+    "current_location": "Cloudnine Jayanagar",
+    "latitude": 12.846634,
+    "longitude": 77.548615,
+    "location_accuracy": 25,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Joseph",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 95,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1048",
+    "status": "available",
+    "current_location": "Bowring & Lady Curzon",
+    "latitude": 13.055874,
+    "longitude": 77.626893,
+    "location_accuracy": 30,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Arun",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 82,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1049",
+    "status": "available",
+    "current_location": "Indira Gandhi Institute",
+    "latitude": 13.048804,
+    "longitude": 77.46543,
+    "location_accuracy": 27,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Shiva",
+      "EMT-1"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 83,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1050",
+    "status": "available",
+    "current_location": "St. Mary's Hospital",
+    "latitude": 12.965504,
+    "longitude": 77.59969,
+    "location_accuracy": 6,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Rahul",
+      "Nurse C"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 57,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1051",
+    "status": "available",
+    "current_location": "Sagar Hospitals",
+    "latitude": 13.050379,
+    "longitude": 77.653878,
+    "location_accuracy": 16,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Shiva",
+      "Nurse A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 78,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1052",
+    "status": "available",
+    "current_location": "Apollo Clinic Whitefield",
+    "latitude": 13.069694,
+    "longitude": 77.728643,
+    "location_accuracy": 14,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Deepak",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 61,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1053",
+    "status": "available",
+    "current_location": "People Tree Hospitals",
+    "latitude": 12.906104,
+    "longitude": 77.645959,
+    "location_accuracy": 22,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Yusuf",
+      "Nurse C"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 70,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1054",
+    "status": "available",
+    "current_location": "BGS Gleneagles",
+    "latitude": 13.059382,
+    "longitude": 77.791672,
+    "location_accuracy": 16,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Arun",
+      "Nurse C"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 76,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1055",
+    "status": "available",
+    "current_location": "Agadi Hospital",
+    "latitude": 13.034716,
+    "longitude": 77.5941,
+    "location_accuracy": 30,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Yusuf",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 65,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1056",
+    "status": "available",
+    "current_location": "Apollo Clinic Whitefield",
+    "latitude": 13.036212,
+    "longitude": 77.487833,
+    "location_accuracy": 30,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Manoj",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 84,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1057",
+    "status": "available",
+    "current_location": "St. Philomena's",
+    "latitude": 12.904898,
+    "longitude": 77.737188,
+    "location_accuracy": 10,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Arun",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 76,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1058",
+    "status": "available",
+    "current_location": "LifeCare Clinic",
+    "latitude": 12.883581,
+    "longitude": 77.474297,
+    "location_accuracy": 11,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Joseph",
+      "Paramedic-A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 89,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1059",
+    "status": "available",
+    "current_location": "Bowring & Lady Curzon",
+    "latitude": 12.899345,
+    "longitude": 77.45966,
+    "location_accuracy": 8,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Suhas",
+      "EMT-1"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 61,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1060",
+    "status": "available",
+    "current_location": "Sanjay Gandhi Institute",
+    "latitude": 12.978971,
+    "longitude": 77.57099,
+    "location_accuracy": 16,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Suhas",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 91,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1061",
+    "status": "available",
+    "current_location": "Mallige Hospital",
+    "latitude": 12.857024,
+    "longitude": 77.465535,
+    "location_accuracy": 3,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Ravi",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 82,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1062",
+    "status": "available",
+    "current_location": "Indira Gandhi Institute",
+    "latitude": 12.820992,
+    "longitude": 77.682483,
+    "location_accuracy": 22,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Joseph",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 74,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1063",
+    "status": "available",
+    "current_location": "Sanjay Gandhi Institute",
+    "latitude": 12.952137,
+    "longitude": 77.683413,
+    "location_accuracy": 15,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Yusuf",
+      "EMT-1"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 63,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1064",
+    "status": "available",
+    "current_location": "Aster RV JP Nagar",
+    "latitude": 12.857552,
+    "longitude": 77.682725,
+    "location_accuracy": 24,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Yusuf",
+      "Nurse C"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 91,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1065",
+    "status": "available",
+    "current_location": "St. Mary's Hospital",
+    "latitude": 12.890285,
+    "longitude": 77.641778,
+    "location_accuracy": 12,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Amit",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 92,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1066",
+    "status": "available",
+    "current_location": "Pristine Hospital",
+    "latitude": 12.981998,
+    "longitude": 77.562787,
+    "location_accuracy": 17,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Praveen",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 85,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1067",
+    "status": "available",
+    "current_location": "Sundar Hospital",
+    "latitude": 13.038121,
+    "longitude": 77.785941,
+    "location_accuracy": 8,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Praveen",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 87,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1068",
+    "status": "available",
+    "current_location": "Manipal Hospital Old Airport",
+    "latitude": 12.999156,
+    "longitude": 77.666741,
+    "location_accuracy": 29,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Deepak",
+      "EMT-1"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 67,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1069",
+    "status": "available",
+    "current_location": "Motherhood Sarjapur",
+    "latitude": 12.844206,
+    "longitude": 77.466175,
+    "location_accuracy": 22,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Rahul",
+      "Paramedic-B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 95,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1070",
+    "status": "available",
+    "current_location": "Aster RV JP Nagar",
+    "latitude": 12.972701,
+    "longitude": 77.701421,
+    "location_accuracy": 18,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Kiran",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 96,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1071",
+    "status": "available",
+    "current_location": "LifeCare Clinic",
+    "latitude": 13.006287,
+    "longitude": 77.762431,
+    "location_accuracy": 6,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Kiran",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 99,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1072",
+    "status": "available",
+    "current_location": "HOSMAT Hospital",
+    "latitude": 12.955387,
+    "longitude": 77.467576,
+    "location_accuracy": 30,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Rahul",
+      "Paramedic-B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 84,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1073",
+    "status": "available",
+    "current_location": "Chinmaya Mission Hospital",
+    "latitude": 13.000273,
+    "longitude": 77.795762,
+    "location_accuracy": 13,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Manoj",
+      "Paramedic-A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 90,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1074",
+    "status": "available",
+    "current_location": "Motherhood Sarjapur",
+    "latitude": 12.933774,
+    "longitude": 77.505705,
+    "location_accuracy": 17,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Amit",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 95,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1075",
+    "status": "available",
+    "current_location": "Rainbow Hospital",
+    "latitude": 12.883193,
+    "longitude": 77.722186,
+    "location_accuracy": 23,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Deepak",
+      "EMT-1"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 59,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1076",
+    "status": "available",
+    "current_location": "Indira Gandhi Institute",
+    "latitude": 13.014063,
+    "longitude": 77.532073,
+    "location_accuracy": 13,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Ravi",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 64,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1077",
+    "status": "available",
+    "current_location": "Nandi Hospital",
+    "latitude": 12.869378,
+    "longitude": 77.692882,
+    "location_accuracy": 9,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Rahul",
+      "Paramedic-A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 76,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1078",
+    "status": "available",
+    "current_location": "Cloudnine Jayanagar",
+    "latitude": 12.962783,
+    "longitude": 77.595521,
+    "location_accuracy": 29,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Kiran",
+      "Paramedic-A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 92,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1079",
+    "status": "available",
+    "current_location": "Curewell Hospital",
+    "latitude": 13.083819,
+    "longitude": 77.456836,
+    "location_accuracy": 21,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Kiran",
+      "Paramedic-B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 77,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1080",
+    "status": "available",
+    "current_location": "People Tree Hospitals",
+    "latitude": 12.889584,
+    "longitude": 77.586495,
+    "location_accuracy": 20,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Yusuf",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 69,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1081",
+    "status": "available",
+    "current_location": "Aster RV JP Nagar",
+    "latitude": 12.881881,
+    "longitude": 77.619975,
+    "location_accuracy": 13,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Praveen",
+      "Paramedic-A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 65,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1082",
+    "status": "available",
+    "current_location": "GM Hospital",
+    "latitude": 13.052152,
+    "longitude": 77.77184,
+    "location_accuracy": 20,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Arun",
+      "Paramedic-A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 91,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1083",
+    "status": "available",
+    "current_location": "Mallige Hospital",
+    "latitude": 12.9989,
+    "longitude": 77.479382,
+    "location_accuracy": 7,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Manoj",
+      "Nurse C"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 71,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1084",
+    "status": "available",
+    "current_location": "Sanjay Gandhi Institute",
+    "latitude": 12.913731,
+    "longitude": 77.524081,
+    "location_accuracy": 13,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Kiran",
+      "EMT-1"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 81,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1085",
+    "status": "available",
+    "current_location": "City Care Center",
+    "latitude": 12.875681,
+    "longitude": 77.478667,
+    "location_accuracy": 26,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Ravi",
+      "Nurse A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 77,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1086",
+    "status": "available",
+    "current_location": "BEML Hospital",
+    "latitude": 12.867267,
+    "longitude": 77.474016,
+    "location_accuracy": 4,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Arun",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 56,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1087",
+    "status": "available",
+    "current_location": "Motherhood Sarjapur",
+    "latitude": 12.986401,
+    "longitude": 77.533491,
+    "location_accuracy": 24,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Rahul",
+      "Nurse D"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 99,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1088",
+    "status": "available",
+    "current_location": "Chinmaya Mission Hospital",
+    "latitude": 12.876873,
+    "longitude": 77.579113,
+    "location_accuracy": 22,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Yusuf",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 65,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1089",
+    "status": "available",
+    "current_location": "City Care Center",
+    "latitude": 13.089416,
+    "longitude": 77.487835,
+    "location_accuracy": 12,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Suhas",
+      "Paramedic-A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 100,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1090",
+    "status": "available",
+    "current_location": "Rajarajeshwari Medical College",
+    "latitude": 12.859499,
+    "longitude": 77.657234,
+    "location_accuracy": 10,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Rahul",
+      "EMT-1"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 98,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1091",
+    "status": "available",
+    "current_location": "Baptist Hospital",
+    "latitude": 12.980123,
+    "longitude": 77.492369,
+    "location_accuracy": 28,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Arun",
+      "EMT-2"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 82,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1092",
+    "status": "available",
+    "current_location": "BEML Hospital",
+    "latitude": 12.998456,
+    "longitude": 77.474135,
+    "location_accuracy": 13,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Arun",
+      "Paramedic-A"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": true,
+      "stretcher": true
+    },
+    "fuel_level": 86,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1093",
+    "status": "available",
+    "current_location": "Rajarajeshwari Medical College",
+    "latitude": 12.831662,
+    "longitude": 77.786276,
+    "location_accuracy": 29,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Manoj",
+      "Nurse C"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 66,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1094",
+    "status": "available",
+    "current_location": "ESI Rajajinagar",
+    "latitude": 13.020139,
+    "longitude": 77.787916,
+    "location_accuracy": 22,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Ravi",
+      "Paramedic-B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 82,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1095",
+    "status": "available",
+    "current_location": "Sanjay Gandhi Institute",
+    "latitude": 13.04772,
+    "longitude": 77.657366,
+    "location_accuracy": 30,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Deepak",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 83,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1096",
+    "status": "available",
+    "current_location": "GM Hospital",
+    "latitude": 12.873159,
+    "longitude": 77.612648,
+    "location_accuracy": 24,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Kiran",
+      "EMT-2"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 86,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1097",
+    "status": "available",
+    "current_location": "Cloudnine Jayanagar",
+    "latitude": 13.055286,
+    "longitude": 77.513644,
+    "location_accuracy": 14,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Amit",
+      "EMT-2"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 93,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1098",
+    "status": "available",
+    "current_location": "St. Mary's Hospital",
+    "latitude": 13.010355,
+    "longitude": 77.546694,
+    "location_accuracy": 19,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Deepak",
+      "Nurse B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 81,
+    "estimated_arrival": null
+  },
+  {
+    "unit_id": "AMB-1099",
+    "status": "available",
+    "current_location": "Akshaya Hospital",
+    "latitude": 12.946573,
+    "longitude": 77.715358,
+    "location_accuracy": 18,
+    "last_location_update": "2025-11-09T12:46:06.339069+00:00",
+    "crew_members": [
+      "Praveen",
+      "Paramedic-B"
+    ],
+    "equipment_status": {
+      "defibrillator": true,
+      "oxygen": true,
+      "medications": false,
+      "stretcher": true
+    },
+    "fuel_level": 56,
+    "estimated_arrival": null
+  }
+]
